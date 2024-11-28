@@ -1,0 +1,12 @@
+{
+    "name": "Example NFT",
+    "symbol": "EXNFT",
+    "description": "This is an example NFT.",
+    "image": "https://media.licdn.com/dms/image/v2/D4D03AQHaT314MERyXg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1690270639359?e=1738195200&v=beta&t=YVSILSsr17yjvK26iT_hyqkkjm3SUwOy4ZCTux3IofI",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Profile"
+        }
+    ]
+}
